@@ -1,2 +1,2 @@
-# BasicFinancialTracker
-A basic financial tracker made using Jetpack Compose
+# BasicFinancialCalculator
+A basic financial calculator made using Jetpack Compose
